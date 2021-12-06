@@ -1,4 +1,5 @@
 # InteriorDesign
+Our project name is  Kazi Safi Interior Design
 
 Group members:
 Niyomwungeri Aphrodis 220003053
